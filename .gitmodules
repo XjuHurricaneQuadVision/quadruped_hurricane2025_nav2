@@ -19,9 +19,6 @@
 [submodule "quadruped_serial_interface"]
 	path = quadruped_serial_interface
 	url = https://github.com/hyyyyyyz/quadruped_serial_interface.git
-[submodule "quadruped_nav2_bringup"]
-	path = quadruped_nav2_bringup
-	url = https://github.com/hyyyyyyz/quadruped_nav2_bringup.git
 [submodule "quadruped_cmd_vel_solve"]
 	path = quadruped_cmd_vel_solve
 	url = https://github.com/hyyyyyyz/quadruped_cmd_vel_solve.git
